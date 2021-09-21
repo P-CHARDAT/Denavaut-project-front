@@ -1,3 +1,8 @@
+Front-end of my project made for my "Bac +2 web developper " accreditation.
+Realized with a real 2D/3D artist.
+The goal is to make her portfolio wher she could expose her projects in a gallery.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
